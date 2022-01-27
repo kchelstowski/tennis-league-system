@@ -1,7 +1,7 @@
 # Projekt Tennis-league
 ### Data wykonania: grudzień 2021 r.
 ### Cel: 
-* zaliczenie przedmiotu "Frontend development" na drugim roku studiów informatyki o profilu praktycznym na Uniwersytecie Gdańskim.
+* zaliczenie przedmiotu "Frontend development" na pierwszym semestrze drugiego roku studiów informatyki o profilu praktycznym na Uniwersytecie Gdańskim.
 * poznanie biblioteki Redux jako dalsze rozwijanie wiedzy z framework'a React zapoczątkowanego na drugim semestrze pierwszego roku studiów na przedmiocie "Języki programowania 2".
 ### Użyte technologie/biblioteki:
 * React, Redux
